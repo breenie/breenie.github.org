@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            kurl
+tagline:          'Hobby web apps on the cheap'
+description:      'Another write only geek tech blog.'
+url:              https://www.kurl.co.uk
+baseurl:          /
+
+author:
+  name:           'Chris'
+  url:            https://www.kurl.co.uk
+
+paginate:         5
+
+github:
+  repo:           https://github.com/kurlltd
+
